@@ -2,7 +2,7 @@
 
 This repository contains the source codes for the "A multi-modality approach for enhancing 4D flow MRI via sparse representation" project.
 
-The whole project dataset with both source code and data can be downloaded from Purdue University Research Repository (PURR):
+The whole project dataset with both source code and data can be downloaded from Purdue University Research Repository (PURR) via the link:
 https://purr.purdue.edu/publications/3872/1
 The project is aim to evaluate and apply a multi-modality approach to enhance the blood flow measurement with 4D flow MRI and improve the hemodynamic analysis in cerebral aneurysms.
 
@@ -10,6 +10,8 @@ The multi-modality data employed in this project has been published in the follo
 Brindise MC, Rothenberger S, Dickerhoff B, Schnell S, Markl M, Saloner D, Rayz VL, Vlachos PP. 2019 Multi-modality cerebral aneurysm haemodynamic analysis: in vivo 4D flow MRI, in vitro volumetric particle velocimetry and in silico computational fluid dynamics. J. R. Soc. Interface 16: 20190465. http://dx.doi.org/10.1098/rsif.2019.0465
 
 Approval of all ethical and experimental procedures and protocols was granted by the institutional review boards at Purdue University, Northwestern Memorial Hospital, and San Francisco VA Medical Center.
+
+The following section describe the folder structure and codes for the dataset published on PURR.
 
 # Folder structure
 
